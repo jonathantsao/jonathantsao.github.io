@@ -3100,3 +3100,12 @@
 #contact-p {
 	margin: 0 0 2em 0;
 }
+
+.inner p {
+	margin-bottom: 0.5em;
+}
+
+.project-links {
+	display: flex;
+	justify-content: space-around;
+}
