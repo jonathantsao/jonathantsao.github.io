@@ -3,7 +3,7 @@ Software Developer
 LinkedIn | GitHub | tsao.jonathan13@gmail.com | Personal Site | (408) 966-0856
 
 PROJECTS
-ShareTube (Rails⠐ Postgresql⠐ JavaScript⠐ React.js⠐ Redux) 
+ShareTube (Rails⠐ Postgresql⠐ JavaScript⠐ React.js⠐ Redux)
 A video-sharing single-page web application inspired by YouTube
 
 Utilizes asynchronous nature of AJAX calls to update React components in real time
@@ -11,14 +11,14 @@ Incorporates a sensitive search functionality using phoneme and trigram similari
 Stores user avatars, videos, and video thumbnails using Paperclip and AWS S3
 Integrates both RESTful and non-RESTful APIs in Rails to maximize frontend maintainability
 
-Sushi Ninja (JavaScript) 
+Sushi Ninja (JavaScript)
 A single-page game written in JavaScript using p5, inspired by Fruit Ninja
 
-Integrates p5 as a processing library to render canvas 60 frames per second
+Integrates p5 (processing library) to render canvas 60 frames per second
 Involves user interaction event firing on mouse and key presses
 Manipulates object position updates every frame using kinematics
 
-Senro (Ruby⠐ Postgresql⠐ Rack) 
+Senro (Ruby⠐ Postgresql⠐ Rack)
 Views and controller framework written in Ruby and PostgreSQL
 
 Allows for integration of Rack Middleware and creates view based on HTTP request
@@ -55,4 +55,3 @@ Immersive 1000+ hour web development bootcamp with < 3% acceptance rate
 Carnegie Mellon University, Pittsburgh, PA | Bachelor of Science, Chemistry
 August 2013 - December 2016
 GPA: 3.93 / 4.00
-
