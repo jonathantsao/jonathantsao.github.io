@@ -18,7 +18,7 @@ Integrates p5 (processing library) to render canvas 60 frames per second
 Involves user interaction event firing on mouse and key presses
 Manipulates object position updates every frame using kinematics
 
-Senro (Ruby⠐ Postgresql⠐ Rack)
+Senro (Ruby⠐ PostgreSQL⠐ Rack)
 Views and controller framework written in Ruby and PostgreSQL
 
 Allows for integration of Rack Middleware and creates view based on HTTP request
