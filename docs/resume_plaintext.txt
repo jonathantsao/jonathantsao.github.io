@@ -14,15 +14,15 @@ Integrates both RESTful and non-RESTful APIs in Rails to maximize frontend maint
 Sushi Ninja (JavaScript)
 A single-page game written in JavaScript using p5, inspired by Fruit Ninja
 
-Integrates p5 (processing library) to render canvas 60 frames per second
+Integrates p5.js to render canvas 60 frames per second
 Involves user interaction event firing on mouse and key presses
 Manipulates object position updates every frame using kinematics
 
 Senro (Ruby⠐ PostgreSQL⠐ Rack)
 Views and controller framework written in Ruby and PostgreSQL
 
-Allows for integration of Rack Middleware and creates view based on HTTP request
-Handles use of static pages elements and HTTP request errors
+Allows for integration of Rack Middleware and creates views based on HTTP request
+Handles use of static page elements and HTTP request errors
 
 
 SKILLS
@@ -44,7 +44,7 @@ Python
 EXPERIENCE
 Carnegie Mellon University (Creswell Group), Pittsburgh, PA
 Research Experiment Conductor - December 2016 - May 2017
-Administered two-hour task-performance experiment while analyzing participant reactions
+Administered two-hour task-performance experiments while analyzing participant reactions
 Extracted emotion indices using facial feature recognition software for investigation
 
 EDUCATION
